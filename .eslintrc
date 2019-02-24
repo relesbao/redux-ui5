@@ -1,0 +1,8 @@
+{
+  "extends": "airbnb/base",
+  "root": true,
+  "globals": {
+    "sap": false,
+    "jQuery": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "redux-ui5",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A redux example to help developers build scalable applications with ui5",
+  "keywords": [
+    "redux",
+    "ui5"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "grunt": "^1.0.3",
+    "grunt-eslint": "^21.0.0",
+    "grunt-openui5": "^0.15.0",
+    "include-all": "^4.0.3",
+    "webpack": "^4.29.5"
+  },
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
