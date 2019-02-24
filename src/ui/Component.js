@@ -9,8 +9,6 @@ sap.ui.define([
   },
 
   init(...args) {
-    console.log(App);
-    debugger;
     // call the base component's init function
     UIComponent.prototype.init.apply(this, args);
   },
