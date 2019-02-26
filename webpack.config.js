@@ -12,4 +12,9 @@ module.exports = {
     libraryTarget: 'global',
     library: 'App',
   },
+  devServer: {
+    contentBase: path.join(__dirname, 'src/ui'),
+    compress: true,
+    port: 8080,
+  },
 };
